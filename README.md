@@ -33,9 +33,8 @@
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com)
-- 🌐 **Portfolio:** [your-portfolio-link.com](https://github.com/heyayushkashyap)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/heyayushkashyap/](https://www.linkedin.com/in/heyayushkashyap/)
+- 📧 **Email:** [hey.ayushkashyap@gmail.com](mailto:hey.ayushkashyap@gmail.com)
 
 ---
 
