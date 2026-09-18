@@ -1,7 +1,6 @@
 # Hi there, I'm Ayush 👋
 
 🎓 **BCA (AI & ML)** Student @ Chandigarh Group of Colleges  
-🎓 **M.Sc. in Physics** Graduate  
 💻 Passionate about Artificial Intelligence, Machine Learning, and Software Development  
 
 ---
