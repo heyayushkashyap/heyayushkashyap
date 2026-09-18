@@ -19,18 +19,6 @@
 ![Artificial Intelligence](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyayushkashyap&show_icons=true&theme=dark&hide_border=true" alt="Ayush's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyayushkashyap&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/heyayushkashyap/](https://www.linkedin.com/in/heyayushkashyap/)
